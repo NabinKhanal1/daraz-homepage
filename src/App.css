@@ -1,0 +1,94 @@
+.text-light{
+  margin-right: 80%;
+}
+.col-6{
+  margin-top: -45px;
+  margin-left: 70px;
+}
+.nav-item5{
+  margin-left: 15%;
+  margin-top: -30%
+  ;
+  
+}
+.nav-item6{
+  margin-left:65%;
+  margin-right: -30%;
+  margin-top: -30%; 
+}
+.col-6 col-md-2 mb-3{
+  margin-top:-70%;
+}
+.card img{
+  height: 250px;
+  object-fit: contain;
+}
+
+  
+.carousel{
+  margin-left: 30%;
+  width: 800px;
+  margin-top: -22%;
+  
+}
+.carousel-item img{
+  height: 300px;
+  object-fit: contain;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-right: 10%;
+  
+  
+}
+
+.view{
+  background-color: orangered;
+  text-align: center;
+
+}
+.list-group{
+  margin-right: 75%;
+  margin-top: 2%;
+  margin-left: 10%;
+}
+.dropdown{
+  width: 110px;
+  background-color: var(--blck);
+  position: absolute;
+  display: none;
+  list-style-type: none;
+}
+.dropwown ul{
+  list-style-type: none;
+}
+.dropwown ul li a{
+  text-decoration: none;
+  color:white;
+  font-size: larger;
+}
+.dropwown{
+  background-color: rgb(164, 167, 167);
+  margin-left: 10%;
+  margin-right: 71%;
+  margin-top: 2%;
+  
+}
+.dropwown ul li:hover .dropdown{
+  display: block;
+}
+.dropwown .dropdown{
+  width: 200px;
+  background-color: black;
+}
+.information{
+  color: white;
+  background-color: rgb(13, 71, 4);
+  margin-top: -1%;
+  text-align: center;
+  margin-left: 8%;
+  margin-right: 8%;
+  font-size: larger;
+  font-style: oblique;
+}
+
+
